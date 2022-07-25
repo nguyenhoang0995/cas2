@@ -1,0 +1,21 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imgcover{
+    background-size: cover;
+    height: auto;
+    max-width: 1440px;
+}
+.entry-content{
+    text-align: center;
+    align-items: center;
+}
+.entry-title img{
+ width: 26px;
+ height: 26px;
+}
